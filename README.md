@@ -43,7 +43,7 @@ yum install smartmontools nvme-cli
 
 1. Скачайте скрипт:
 ```bash
-curl -O https://raw.githubusercontent.com/USERNAME/REPO/main/disk_temp.sh
+curl -O https://raw.githubusercontent.com/lQwestl/disk_temp/main/disk_temp.sh
 ```
 
 2. Сделайте его исполняемым:
